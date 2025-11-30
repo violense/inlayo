@@ -23,7 +23,7 @@ I'm a web developer who enjoys building front-end projects and experimenting wit
     <img src="https://cdn.simpleicons.org/python" height="30" alt="python logo" />
   </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/csharp" height="30" alt="csharp logo" />
+    <img src="https://cdn.simpleicons.org/dotnet" height="30" alt="dotnet logo" />
   </a>
 </p>
 
