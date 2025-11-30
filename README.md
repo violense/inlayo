@@ -31,9 +31,9 @@ I'm a web developer who enjoys building front-end projects and experimenting wit
 ## Connect
 
 <p align="center">
-  <a href="https://inlayo.com">Website</a> •
-  <a href="https://inlayo.com/osu">osu!</a> •
-  <a href="https://inlayo.com/twitch">Twitch</a> •
-  <a href="https://inlayo.com/twitter">Twitter</a> •
-  <a href="https://inlayo.com/youtube">YouTube</a>
+<a href="https://inlayo.com">Website</a> •
+<a href="https://inlayo.com/osu">osu!</a> •
+<a href="https://inlayo.com/twitch">Twitch</a> •
+<a href="https://inlayo.com/twitter">Twitter</a> •
+<a href="https://inlayo.com/youtube">YouTube</a>
 </p>
