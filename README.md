@@ -7,12 +7,12 @@ I'm a web developer who enjoys building front-end projects and experimenting wit
 ### Tech Stack
 
 <p>
-<img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5" />
-<img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS3" />
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript" />
-<img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="TypeScript" />
-<img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python" />
-<img src="https://cdn.simpleicons.org/csharp/512BD4" height="40" alt="C#" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="40" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="40" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="40" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="40" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="40" alt="Python" />
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white" height="40" alt="C#" />
 </p>
 
 </div>
