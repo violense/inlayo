@@ -7,12 +7,12 @@ I'm a web developer who enjoys building front-end projects and experimenting wit
 ### Tech Stack
 
 <p>
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS3" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="TypeScript" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python" />
-  <img src="https://cdn.simpleicons.org/csharp/239120" height="40" alt="C#" />
+<img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5" />
+<img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS3" />
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript" />
+<img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="TypeScript" />
+<img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python" />
+<img src="https://cdn.simpleicons.org/csharp/512BD4" height="40" alt="C#" />
 </p>
 
 </div>
