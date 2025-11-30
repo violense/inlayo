@@ -22,8 +22,11 @@ I'm a web developer who enjoys building front-end projects and experimenting wit
 ## Featured Projects
 
 **[Inlayo-skins](https://github.com/Inlayo/Inlayo-skins)** — Custom osu! skin collection  
+
 **[twitch-bot](https://github.com/Inlayo/twitch-bot)** — Lightweight Twitch chat bot  
+
 **[bancho.py-old](https://github.com/Inlayo/bancho.py-old)** — Open-source osu! server 
+
 **[guweb-old](https://github.com/Inlayo/guweb-old)** — Frontend for gulag osu! server protocol  
 
 ---
