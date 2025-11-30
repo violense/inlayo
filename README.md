@@ -19,7 +19,7 @@ I'm a web developer who enjoys building front-end projects and experimenting wit
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 **[Inlayo-skins](https://github.com/Inlayo/Inlayo-skins)** — Custom osu! skin collection  
 **[twitch-bot](https://github.com/Inlayo/twitch-bot)** — Lightweight Twitch chat bot  
@@ -28,7 +28,7 @@ I'm a web developer who enjoys building front-end projects and experimenting wit
 
 ---
 
-## 🔗 Connect
+## Connect
 
 <p align="center">
   <a href="https://inlayo.com">Website</a> •
