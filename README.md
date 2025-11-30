@@ -8,40 +8,22 @@ I'm a web developer who enjoys building front-end projects and experimenting wit
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/html5/white">
-      <img src="https://cdn.simpleicons.org/html5/000000" height="30" alt="html5 logo" />
-    </picture>
+    <img src="https://cdn.simpleicons.org/html5" height="30" alt="html5 logo" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/css3/white">
-      <img src="https://cdn.simpleicons.org/css3/000000" height="30" alt="css3 logo" />
-    </picture>
+    <img src="https://cdn.simpleicons.org/css3" height="30" alt="css3 logo" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/javascript/white">
-      <img src="https://cdn.simpleicons.org/javascript/000000" height="30" alt="javascript logo" />
-    </picture>
+    <img src="https://cdn.simpleicons.org/javascript" height="30" alt="javascript logo" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/typescript/white">
-      <img src="https://cdn.simpleicons.org/typescript/000000" height="30" alt="typescript logo" />
-    </picture>
+    <img src="https://cdn.simpleicons.org/typescript" height="30" alt="typescript logo" />
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/white">
-      <img src="https://cdn.simpleicons.org/python/000000" height="30" alt="python logo" />
-    </picture>
+    <img src="https://cdn.simpleicons.org/python" height="30" alt="python logo" />
   </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/csharp/white">
-      <img src="https://cdn.simpleicons.org/csharp/000000" height="30" alt="csharp logo" />
-    </picture>
+    <img src="https://cdn.simpleicons.org/csharp" height="30" alt="csharp logo" />
   </a>
 </p>
 
