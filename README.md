@@ -11,7 +11,7 @@ I'm a web developer who enjoys building front-end projects and experimenting wit
     <img src="https://cdn.simpleicons.org/html5" height="30" alt="html5 logo" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/css3" height="30" alt="css3 logo" />
+    <img src="https://cdn.simpleicons.org/css" height="30" alt="css logo" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/javascript" height="30" alt="javascript logo" />
